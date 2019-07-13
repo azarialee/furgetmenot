@@ -18,7 +18,7 @@ body {
   font-family: "Merriweather", serif;
   line-height: 1.5;
   /*To change the background image, change the file name in the url below*/
-  background: url(bg.jpg) no-repeat fixed 50%;
+  background: url(../images/bg.jpg) no-repeat fixed 50%;
   background-size: cover;
   padding: 0;
   margin: 0;
@@ -37,11 +37,7 @@ body {
   padding:10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
-.gs {
-  width:100px;
-  height:100px;
-  position:absolute;
-}
+
 h1, h2, h3, h4 {
   /*This is the font for headings*/
   font-family: "Open Sans", sans-serif;
